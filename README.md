@@ -1,6 +1,4 @@
-0" height="40"/> </a> </p>
-# shalu-sharma
-<img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png">
+
 <h1 align="center">Hi 👋, I'm Shalu</h1>
 <h2 align ="center"> Flutter developer</h2>
 <h3 align="center">A passionate flutter developer from India</h3>
